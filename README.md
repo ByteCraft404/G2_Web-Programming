@@ -1,4 +1,4 @@
-# G3_Web-Programming
+# G2_Web-Programming
 Group OneThis is a school assignment on BCS 220
 the members are:
 James Otipa
